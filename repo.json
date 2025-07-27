@@ -1,0 +1,14 @@
+{
+  "name": "My Cloudstream Repo",
+  "developer": "Your Name",
+  "icon": "https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+  "extensions": [
+    {
+      "name": "Animekai",
+      "package": "com.phisher.animekai",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/GladRedFox719/cloudstream-repo/main/Animekai.cs3",
+      "icon": "https://animekai.to/favicon.ico"
+    }
+  ]
+}
